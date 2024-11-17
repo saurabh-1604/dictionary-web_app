@@ -5,3 +5,12 @@ I developed a dictionary web application using HTML, PHP, and MySQL, designed to
 # ER Diagram of MySQL Database
 <img width="960" alt="website" src="https://github.com/user-attachments/assets/8e6654aa-cfa9-442f-8184-f961f595ce7f">
 
+# User Interface
+<img width="960" alt="website" src="https://github.com/user-attachments/assets/99f96e94-f3cd-4990-8c05-104bea4baf5e">
+
+<img width="960" alt="website" src="https://github.com/user-attachments/assets/cca932b9-19e1-42d9-a305-969703a73fc2">
+
+
+
+
+
